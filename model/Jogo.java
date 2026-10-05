@@ -1,4 +1,4 @@
-public package model;
+package model;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -184,6 +184,5 @@ public class Jogo {
         return "Difícil";
     }
 }
- {
+ 
     
-}
